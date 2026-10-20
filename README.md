@@ -1,11 +1,23 @@
-# Warframe Hack 2026 | Free Cheat + Trainer | Free Download
+# Warframe Trainer (+54) — Free Download 2026
 
-[Download EN](https://moggydaytrainer.com/en/f/warframe-trainer) · [Скачать RU](https://moggydaytrainer.com/f/warframe-trainer) · [Warframe hub](https://moggydaytrainer.com/g/warframe) · [Warframe news](https://moggydaytrainer.com/g/warframe/news)
+<p align="left">
+  <a href="https://moggydaytrainer.com/en/f/warframe-trainer"><img alt="Download English trainer" src="https://img.shields.io/badge/⬇%20Download-English%20trainer-2563eb?style=for-the-badge"></a>
+  <a href="https://moggydaytrainer.com/f/warframe-trainer"><img alt="Russian page" src="https://img.shields.io/badge/Русская%20страница-1d4ed8?style=for-the-badge"></a>
+  <a href="https://moggydaytrainer.com/zh/f/warframe-trainer"><img alt="Chinese page" src="https://img.shields.io/badge/中文%20页面-1e40af?style=for-the-badge"></a>
+  <a href="https://moggydaytrainer.com/en/g/warframe"><img alt="Game hub" src="https://img.shields.io/badge/Warframe%20hub-334155?style=for-the-badge"></a>
+  <a href="https://moggydaytrainer.com/en/games"><img alt="All trainers" src="https://img.shields.io/badge/MoggyDay%20catalog-0f766e?style=for-the-badge"></a>
+</p>
 
 
-Queries this mirror supports in plain language: Warframe trainer, Warframe hack 2026, Warframe free cheat, Warframe aimbot (offline / custom only).
+MoggyDay hosts the official **Warframe** trainer for Windows (current, **+54** toggles). This repository is a public mirror: game context, screenshots, and the full feature list. The download button lives only on [moggydaytrainer.com](https://moggydaytrainer.com) — there is **no `.exe` in git**.
 
-The live **Warframe** pack on MoggyDay is the current Windows trainer with **+many** toggles (Warframe hack, energy, endo. MoggyDay trainer +54 for solo missions — not public squads.). People search `Warframe trainer`, `Warframe hack 2026` and `Warframe free cheat` and should land on the file page, not a random Discord zip. This GitHub repo is a documented mirror: screenshots, option notes and the official links. The download button is only on [https://moggydaytrainer.com/en/f/warframe-trainer](https://moggydaytrainer.com/en/f/warframe-trainer). Offline / custom / workshop — not ranked matchmaking.
+## About Warframe
+
+Warframe is a PC game. MoggyDay documents a dedicated trainer with live toggles for single-player and offline sessions. It is listed in the MoggyDay catalog as a Windows title (Steam app 230410).
+
+## About the MoggyDay trainer
+
+The live Warframe pack on MoggyDay is the current Windows trainer with +54 toggles (God Mode (Solo), Infinite Health, Infinite Shields, Infinite Energy, No Energy Cost). People search `Warframe trainer`, `Warframe hack 2026` and `Warframe free cheat` and should land on the file page, not a random Discord zip. This GitHub repo is a documented mirror: screenshots, option notes and the official links. The download button is only on [https://moggydaytrainer.com/en/f/warframe-trainer](https://moggydaytrainer.com/en/f/warframe-trainer). Offline / custom / workshop — not ranked matchmaking.
 
 ## Screenshots
 
@@ -21,87 +33,139 @@ Shots from the live [Warframe trainer page](https://moggydaytrainer.com/en/f/war
 
 [![Warframe options 3](https://moggydaytrainer.com/media/shots/hub-warframe/fn-3.png)](https://moggydaytrainer.com/en/f/warframe-trainer)
 
-## Who this is for
+## Trainer features (+54)
 
-This Warframe page is for people practicing in offline maps, custom lobbies, the firing range or a workshop mode. It is **not** a ranked/undetected product page. If you need the trainer as a single-player style tool for your own session, MoggyDay is the source. If you want to ruin official matchmaking, this listing will not help you — and we do not host that.
+The table matches the live launcher pack. Hotkeys may change after a patch — confirm on the [English trainer page](https://moggydaytrainer.com/en/f/warframe-trainer).
 
-## Live URLs
+| # | Feature | Category | Hotkey | Type |
+|---:|---|---|---|---|
+| 1 | God Mode (Solo) | Player | Num 1 | Toggle |
+| 2 | Infinite Health | Player | Num 2 | Toggle |
+| 3 | Infinite Shields | Player | Num 3 | Toggle |
+| 4 | Infinite Energy | Player | Num 4 | Toggle |
+| 5 | No Energy Cost | Warframe | Num 5 | Toggle |
+| 6 | No Ability Cooldown | Warframe | Num 6 | Toggle |
+| 7 | Infinite Ammo | Combat | Num 7 | Toggle |
+| 8 | No Reload | Combat | Num 8 | Toggle |
+| 9 | Super Damage | Combat | Num 9 | Toggle |
+| 10 | One Hit Kill | Combat | Num 0 | Toggle |
+| 11 | Infinite Credits | Economy | Num . | Toggle |
+| 12 | Edit Credits | Economy | Num * | Value |
+| 13 | Infinite Endo | Economy | Num + | Toggle |
+| 14 | Edit Endo | Economy | Num - | Value |
+| 15 | Infinite Ferrite | Resources | Ctrl+Num 1 | Toggle |
+| 16 | Infinite Alloy Plate | Resources | Ctrl+Num 2 | Toggle |
+| 17 | Infinite Rubedo | Resources | Ctrl+Num 3 | Toggle |
+| 18 | Infinite Morphics | Resources | Ctrl+Num 4 | Toggle |
+| 19 | Infinite Orokin Cells | Resources | Ctrl+Num 5 | Toggle |
+| 20 | Infinite Argon Crystal | Resources | Ctrl+Num 6 | Toggle |
+| 21 | Infinite Nitain | Resources | Ctrl+Num 7 | Toggle |
+| 22 | Resource Multiplier | Resources | Ctrl+Num 8 | Value |
+| 23 | Unlock All Warframes | Unlocks | Ctrl+Num 9 | Toggle |
+| 24 | Unlock All Weapons | Unlocks | Ctrl+Num 0 | Toggle |
+| 25 | Unlock All Companions | Unlocks | Ctrl+Num . | Toggle |
+| 26 | Max Mod Rank | Mods | Ctrl+Num * | Toggle |
+| 27 | Infinite Mods | Mods | Ctrl+Num + | Toggle |
+| 28 | Free Foundry Craft | Craft | Ctrl+Num - | Toggle |
+| 29 | Instant Foundry | Craft | Alt+Num 1 | Toggle |
+| 30 | Affinity Multiplier | Affinity | Alt+Num 2 | Value |
+| 31 | Instant Mastery Rank | Affinity | Alt+Num 3 | Toggle |
+| 32 | Infinite Focus | Progress | Alt+Num 4 | Toggle |
+| 33 | Unlock All Nodes | Unlocks | Alt+Num 5 | Toggle |
+| 34 | Loot Multiplier | Loot | Alt+Num 6 | Toggle |
+| 35 | Super Speed / Bullet Jump | Movement | Alt+Num 7 | Toggle |
+| 36 | No Fall Damage | Movement | Alt+Num 8 | Toggle |
+| 37 | No Clip | Movement | Alt+Num 9 | Toggle |
+| 38 | Freeze Time | Time | Alt+Num 0 | Toggle |
+| 39 | Set Game Speed | Time | Alt+Num . | Speed |
+| 40 | Slow Motion | Time | Alt+Num * | Toggle |
+| 41 | Save Position | Misc | Alt+Num + | Toggle |
+| 42 | Load Position | Misc | Alt+Num - | Toggle |
+| 43 | Infinite Void Traces | Resources | Shift+F1 | Toggle |
+| 44 | Infinite Kuva | Economy | Shift+F2 | Toggle |
+| 45 | Infinite Standing | Progress | Shift+F3 | Toggle |
+| 46 | Unlock All Relics | Relics | Shift+F4 | Toggle |
+| 47 | Always Radiant Relic | Relics | Shift+F5 | Toggle |
+| 48 | Instant Mission Complete (Solo) | Progress | Shift+F6 | Toggle |
+| 49 | No Shield Gate Delay | Player | Shift+F7 | Toggle |
+| 50 | Infinite Companion Ammo | Companions | Shift+F8 | Toggle |
+| 51 | Unlock All Archwings | Unlocks | Shift+F9 | Toggle |
+| 52 | Infinite Archwing Energy | Flight | Shift+F10 | Toggle |
+| 53 | Max Forma / Polarize Free | Mods | Shift+F11 | Toggle |
+| 54 | Unlock All Quests (Solo) | Unlocks | Shift+F12 | Toggle |
 
-| Page | URL |
-|---|---|
-| English trainer | [https://moggydaytrainer.com/en/f/warframe-trainer](https://moggydaytrainer.com/en/f/warframe-trainer) |
-| Русский трейнер | [https://moggydaytrainer.com/f/warframe-trainer](https://moggydaytrainer.com/f/warframe-trainer) |
-| Game hub | [https://moggydaytrainer.com/g/warframe](https://moggydaytrainer.com/g/warframe) |
-| Trainers tab | [https://moggydaytrainer.com/g/warframe/trainers](https://moggydaytrainer.com/g/warframe/trainers) |
-| News | [https://moggydaytrainer.com/g/warframe/news](https://moggydaytrainer.com/g/warframe/news) |
-| Catalog | [https://moggydaytrainer.com/games](https://moggydaytrainer.com/games) |
+### Tips
 
-## Warframe trainer current: +many options
+- **God Mode (Solo)** — Usually the first toggle people enable on a Warframe trainer.
+- **Infinite Health** — Check this after every Warframe patch — values often shift.
+- **Infinite Shields** — Leave it off if you only want a mild resource boost.
+- **Infinite Energy** — Pairs with the other combat toggles on the Warframe page.
+- **No Energy Cost** — Use it to skip a grind, then turn it back off.
+- **No Ability Cooldown** — Read the live hotkey next to this name on MoggyDay.
+- **Infinite Ammo** — Game-specific: the Warframe listing explains the exact effect.
+- **No Reload** — If two options overlap, enable one and test in a safe save.
+- **Super Damage** — Keep a screenshot of your preferred set from the site page.
+- **One Hit Kill** — Not every option is safe in every mission — test first.
+- **Infinite Credits** — The RU page uses the same toggle order.
+- **Edit Credits** — Ask in comments on the trainer page if a name is unclear.
+- **Infinite Endo** — Usually the first toggle people enable on a Warframe trainer.
+- **Edit Endo** — Check this after every Warframe patch — values often shift.
+- **Infinite Ferrite** — Leave it off if you only want a mild resource boost.
+- **Infinite Alloy Plate** — Pairs with the other combat toggles on the Warframe page.
+- **Infinite Rubedo** — Use it to skip a grind, then turn it back off.
+- **Infinite Morphics** — Read the live hotkey next to this name on MoggyDay.
+- **Infinite Orokin Cells** — Game-specific: the Warframe listing explains the exact effect.
+- **Infinite Argon Crystal** — If two options overlap, enable one and test in a safe save.
+- **Infinite Nitain** — Keep a screenshot of your preferred set from the site page.
+- **Resource Multiplier** — Not every option is safe in every mission — test first.
+- **Unlock All Warframes** — The RU page uses the same toggle order.
+- **Unlock All Weapons** — Ask in comments on the trainer page if a name is unclear.
+- **Unlock All Companions** — Usually the first toggle people enable on a Warframe trainer.
+- **Max Mod Rank** — Check this after every Warframe patch — values often shift.
+- **Infinite Mods** — Leave it off if you only want a mild resource boost.
+- **Free Foundry Craft** — Pairs with the other combat toggles on the Warframe page.
+- **Instant Foundry** — Use it to skip a grind, then turn it back off.
+- **Affinity Multiplier** — Read the live hotkey next to this name on MoggyDay.
+- **Instant Mastery Rank** — Game-specific: the Warframe listing explains the exact effect.
+- **Infinite Focus** — If two options overlap, enable one and test in a safe save.
+- **Unlock All Nodes** — Keep a screenshot of your preferred set from the site page.
+- **Loot Multiplier** — Not every option is safe in every mission — test first.
+- **Super Speed / Bullet Jump** — The RU page uses the same toggle order.
+- **No Fall Damage** — Ask in comments on the trainer page if a name is unclear.
+- **No Clip** — Usually the first toggle people enable on a Warframe trainer.
+- **Freeze Time** — Check this after every Warframe patch — values often shift.
+- **Set Game Speed** — Leave it off if you only want a mild resource boost.
+- **Slow Motion** — Pairs with the other combat toggles on the Warframe page.
+- **Save Position** — Use it to skip a grind, then turn it back off.
+- **Load Position** — Read the live hotkey next to this name on MoggyDay.
+- **Infinite Void Traces** — Game-specific: the Warframe listing explains the exact effect.
+- **Infinite Kuva** — If two options overlap, enable one and test in a safe save.
+- **Infinite Standing** — Keep a screenshot of your preferred set from the site page.
+- **Unlock All Relics** — Not every option is safe in every mission — test first.
+- **Always Radiant Relic** — The RU page uses the same toggle order.
+- **Instant Mission Complete (Solo)** — Ask in comments on the trainer page if a name is unclear.
+- **No Shield Gate Delay** — Usually the first toggle people enable on a Warframe trainer.
+- **Infinite Companion Ammo** — Check this after every Warframe patch — values often shift.
+- **Unlock All Archwings** — Leave it off if you only want a mild resource boost.
+- **Infinite Archwing Energy** — Pairs with the other combat toggles on the Warframe page.
+- **Max Forma / Polarize Free** — Use it to skip a grind, then turn it back off.
+- **Unlock All Quests (Solo)** — Read the live hotkey next to this name on MoggyDay.
 
-Copy taken from the current MoggyDay description so this page does not drift from the live listing.
+## Download
 
-| # | Option |
-|---|---|
-| 1 | Warframe hack |
-| 2 | energy |
-| 3 | endo. MoggyDay trainer +54 for solo missions — not public squads. |
+1. Open **[Warframe Hack 2026 | Free Cheat + Trainer | Free Download](https://moggydaytrainer.com/en/f/warframe-trainer)** (or [Russian listing](https://moggydaytrainer.com/f/warframe-trainer), [Chinese listing](https://moggydaytrainer.com/zh/f/warframe-trainer)).
+2. Confirm the domain is **moggydaytrainer.com**.
+3. Use the primary **Free download** button on that page.
+4. After a Warframe update, reload the same URL — the slug `/f/warframe-trainer` never moves.
 
-### What those toggles are for
+## Install (Windows)
 
-- **Warframe hack** — Usually the first toggle people enable on a Warframe trainer.
-- **energy** — Check this after every Warframe patch — values often shift.
-- **endo. MoggyDay trainer +54 for solo missions — not public squads.** — Leave it off if you only want a mild resource boost.
+1. Close Warframe before trying a new build.
+2. Run only files from MoggyDay for `warframe-trainer`.
+3. Enable a few toggles first, not the entire +54 list.
+4. Keep a backup save before resource or progression edits.
 
-The full hotkey grid is only on the [download page](https://moggydaytrainer.com/en/f/warframe-trainer). GitHub stays a summary.
-
-## How to download
-
-1. Open **[Warframe Hack 2026 | Free Cheat + Trainer | Free Download](https://moggydaytrainer.com/en/f/warframe-trainer)** or **[Warframe Hack 2026 | Free Cheat + Trainer | скачать](https://moggydaytrainer.com/f/warframe-trainer)**.
-2. Confirm the host is **moggydaytrainer.com**.
-3. Use the primary download button. Ignore zips that copy this README.
-4. After a Warframe patch, reload the same URL. We do not publish binaries as GitHub Releases.
-
-Wrong paths: cloning this repo, a random `Release` asset, a Telegram file named `warframe-trainer.exe`.
-
-## What the screenshots show
-
-The first image is the Warframe cover used on MoggyDay. The strip after it is taken from the live trainer card: the page header, the option list, and extra function shots. If a thumbnail here 404s, the site still has the file — we hotlink `/media/shots/` so Google sees the same bytes as the listing. Click any image to open [https://moggydaytrainer.com/en/f/warframe-trainer](https://moggydaytrainer.com/en/f/warframe-trainer).
-
-## Install notes (Windows)
-
-1. Close Warframe before the first run of a new trainer build.
-2. Unpack or run only what MoggyDay gave you for `warframe-trainer`.
-3. Start the trainer, then start Warframe (or the order printed on the live page if it differs).
-4. Enable one or two toggles, not the whole +many list at once.
-5. Make a spare save. God mode and resource edits are hard to undo if you overwrite the only slot.
-
-Antivirus sometimes flags trainers. That is normal for this file class. Download again from the same URL if the hash on the site changes.
-
-## If something does not work
-
-- The game patched and the current heading is older than the Warframe build you launched — wait for MoggyDay to bump the page.
-- You used a bookmark that is not `/f/warframe-trainer` — switch to the URLs in the table above.
-- Only the DLL or only the EXE was copied from a friend — get the pair from the site.
-- Overlay or other injectors are running — turn them off and retry.
-
-## After a Warframe update
-
-Trainers break when the game moves values. MoggyDay bumps the H1 version when a new pair is ready. Keep this bookmark. If a screenshot here looks older than the site, trust the site — we refresh this mirror after the listing, not before.
-
-## RU
-
-**Warframe Hack 2026 | Free Cheat + Trainer | скачать**
-
-Warframe hack, free hack, free cheat, energy, endo. MoggyDay trainer +54 for solo missions — not public squads.
-
-Скриншоты и опции те же, что на английской карточке. Скачивать нужно отсюда:
-
-- Трейнер: https://moggydaytrainer.com/f/warframe-trainer
-- Хаб Warframe: https://moggydaytrainer.com/g/warframe
-- Новости: https://moggydaytrainer.com/g/warframe/news
-- Каталог: https://moggydaytrainer.com/games
-
-Файл не лежит в git. Если кто-то прислал «тот же трейнер» с другого домена — не ставь.
+## FAQ
 
 ## FAQ
 
@@ -120,19 +184,23 @@ Comment on the trainer page or write in [Warframe news](https://moggydaytrainer.
 **Will this GitHub page stay up if the file updates?**
 Yes. The slug `/f/warframe-trainer` is stable. We refresh this README when the site heading or shots change.
 
-## Search notes
 
-`warframe hack`, `warframe free hack`, `warframe free cheat`, `warframe cheat`, `warframe cheats`, `warframe aimbot`, `warframe free aimbot`, `warframe wallhack`, `warframe free wallhack`, `warframe esp`, `warframe free esp`, `warframe no recoil`, `warframe undetected`, `warframe cheat download`, `warframe hack download`, `warframe trainer`
+## Search terms (English)
 
-We keep tags aligned with the live page. This is documentation, not a keyword dump.
+`warframe trainer`, `warframe cheats`, `warframe hack`, `warframe infinite energy`, `warframe cheat`, `warframe free hack`, `warframe free cheat`, `warframe aimbot`, `warframe free aimbot`, `warframe wallhack`, `warframe free wallhack`, `warframe esp`, `warframe free esp`, `warframe no recoil`
+
+## Other languages
+
+- Russian copy: [ru.md](ru.md) · live page [https://moggydaytrainer.com/f/warframe-trainer](https://moggydaytrainer.com/f/warframe-trainer)
+- Chinese page: [https://moggydaytrainer.com/zh/f/warframe-trainer](https://moggydaytrainer.com/zh/f/warframe-trainer)
 
 ## Other MoggyDay trainers
 
-- ![Slay the Spire 2 cover](https://moggydaytrainer.com/media/covers/slay-the-spire-2-f9ee2b36d6.jpg) [Slay the Spire 2 trainer +54: energy, cards, relics, gold [v1.0.0]](https://moggydaytrainer.com/en/f/slay-the-spire-2-trainer) · [RU](https://moggydaytrainer.com/f/slay-the-spire-2-trainer)
-- ![Geometry Dash cover](https://moggydaytrainer.com/media/covers/geometry-dash-a1a9bc2182.jpg) [Geometry Dash trainer +54: noclip, icons, coins, orbs [v1.0.0]](https://moggydaytrainer.com/en/f/geometry-dash-trainer) · [RU](https://moggydaytrainer.com/f/geometry-dash-trainer)
-- ![Forza Horizon 6 cover](https://moggydaytrainer.com/media/covers/forza-horizon-6-moggyday-hUtDjSIg.jpg) [Forza Horizon 6 "Trainer +12: Credits, Boost, Free Cars, No Damage" [v2.2.0]](https://moggydaytrainer.com/en/f/forza-horizon-6-trainer) · [RU](https://moggydaytrainer.com/f/forza-horizon-6-trainer)
+- ![Assassin's Creed Black Flag Resynced cover](https://moggydaytrainer.com/media/covers/assassin-s-creed-black-flag-resynced-74107130ed.jpg) [Assassin's Creed Black Flag Resynced "Trainer +30: God Mode, Money, Jackdaw, Teleport" [v2.0.0]](https://moggydaytrainer.com/en/f/assassins-creed-black-flag-resynced-trainer) · [RU](https://moggydaytrainer.com/f/assassins-creed-black-flag-resynced-trainer)
 - ![How to Fish cover](https://moggydaytrainer.com/media/covers/how-to-fish-f21d2e6ed9.jpg) [How to Fish "Trainer +22: Money, Bait, Instant Catch, Islands, God Mode" [v2.1.0]](https://moggydaytrainer.com/en/f/how-to-fish-trainer-moggyday) · [RU](https://moggydaytrainer.com/f/how-to-fish-trainer-moggyday)
+- ![Valheim cover](https://moggydaytrainer.com/media/covers/valheim-10c7a01e62.jpg) [Valheim V1.0 "Trainer +26: Health, Stamina, Food, Daytime" [v1.2.0]](https://moggydaytrainer.com/en/f/valheim-trainer) · [RU](https://moggydaytrainer.com/f/valheim-trainer)
+- ![Total War: WARHAMMER III cover](https://moggydaytrainer.com/media/covers/total-war-warhammer-iii-c4c02bb0d5.jpg) [Total War: WARHAMMER III trainer +68: treasury, armies, battle, resources [v1.0.0]](https://moggydaytrainer.com/en/f/total-war-warhammer-iii-trainer) · [RU](https://moggydaytrainer.com/f/total-war-warhammer-iii-trainer)
 
-## About
+## About this mirror
 
-Mirror maintained from `veenx0704` so `Warframe trainer` can cite a GitHub URL that **points at** [moggydaytrainer.com](https://moggydaytrainer.com). No executable is stored here.
+Maintained by `veenx0704` for SEO transparency. Canonical download: [https://moggydaytrainer.com/en/f/warframe-trainer](https://moggydaytrainer.com/en/f/warframe-trainer). Screenshots hotlink MoggyDay `/media/` assets.
